@@ -1,8 +1,8 @@
 # Site settings
 title: 'Thyago Porpino'
 description: 'My personal website'
-url: 'https://thypad.github.io'
-baseurl:
+url: 'http://thypad.github.io'
+baseurl: '/'
 # google_analytics: 'UA-XXXXXX-X'
 # disqus_shortname: 'your-disqus-name'
 
